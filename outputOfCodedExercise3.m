@@ -1,5 +1,5 @@
 
-%%This is the MATLAB output of this code:      "exerciseCodedVersion 
+%%This is the MATLAB output of this code:  https://github.com/hanurd25/partDAssignmentFuzzyLogic/edit/main/exerciseCodedVersion.m
 
 If humidity is poor and temperature is low and degree_Of_utility is veryLow then HVAC_PLANT_OUTPUT is veryHigh
 If humidity is poor and temperature is low and degree_Of_utility is low then HVAC_PLANT_OUTPUT is veryHigh
