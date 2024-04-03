@@ -1,3 +1,6 @@
+
+%%This is the MATLAB output of this code:      "exerciseCodedVersion 
+
 If humidity is poor and temperature is low and degree_Of_utility is veryLow then HVAC_PLANT_OUTPUT is veryHigh
 If humidity is poor and temperature is low and degree_Of_utility is low then HVAC_PLANT_OUTPUT is veryHigh
 If humidity is poor and temperature is low and degree_Of_utility is moderate then HVAC_PLANT_OUTPUT is veryHigh
