@@ -4,7 +4,7 @@
 fis = mamfis('Name', "HVACMamdani");
 %% Create a Mamdani fuzzy inference system .
 %%fis = mamfis('Name',"TipMamdani");
-%% Add input variables for the service and food quality.
+%% Add input variables
 fis = addInput(fis,[0 0.7],"Name","humidity");
 fis = addInput(fis,[0 1],"Name","temperature");
 fis = addInput(fis,[0 1],"Name","degree_Of_utility");
