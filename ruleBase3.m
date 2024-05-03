@@ -5,7 +5,7 @@
 %Matlab turtorial for creating command-based fuzzy logic systems has also been used as guidance. Link:
 %https://se.mathworks.com/help/fuzzy/working-from-the-command-line.html
 
-% Michael Negnevitsky. Artificial Intelligence: A Guide to Intelligent Systems. 2nd ed. ,Pearson Education, 2011   - PAGE 123
+%% Negnevitsky, Michael. Artificial Intelligence: A Guide to Intelligent Systems. 2nd ed. Pearson Education, 2011. Page 123.
 % Figure 4.25: 'Cube FAM of rule base 3'
 % The motive of the 45 rules below can be found in the referenced source above.
 
