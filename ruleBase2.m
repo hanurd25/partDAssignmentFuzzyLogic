@@ -1,12 +1,13 @@
-%%Sources
-%The foundation for the creating this code is created by the lecturer, in 'Intelligente systemer', and  
-%is from a class acticity 'Class activity_03.pdf', and can be found on blackboard page for the subject.
+%% Sources:
+% The foundation for creating this code is from the lecturer's materials in 'Intelligente systemer'. 
+% Is's from a class activity 'Class activity_03.pdf' available on blackboard page for the subject's.
 
-%Matlab turtorial for creating command-based fuzzy logic systems has also been used as guidance. Link:
-%https://se.mathworks.com/help/fuzzy/working-from-the-command-line.html
 
-% Michael Negnevitsky. Artificial Intelligence: A Guide to Intelligent Systems. 2nd ed. ,Pearson Education, 2011   - PAGE 120-120
-% The source above has been used as motive for the creating the 27 rules under, in text form. 
+% MATLAB tutorial for creating command-based fuzzy logic systems has been used as guidance:
+% https://se.mathworks.com/help/fuzzy/working-from-the-command-line.html
+
+% Negnevitsky, Michael. Artificial Intelligence: A Guide to Intelligent Systems. 2nd ed. Pearson Education, 2011. Pages 120-120.
+% The motive of the 27 rules below can be found in the referenced source above.
 
 
 
