@@ -1,3 +1,11 @@
+%%Sources
+%The foundation for the creating this code is created by the lecturer, in 'Intelligente systemer', and  
+%is from a class acticity 'Class activity_03.pdf', and can be found on blackboard page for the subject.
+
+%Matlab turtorial for creating command-based fuzzy logic systems has also been used as guidance. Link:
+%https://se.mathworks.com/help/fuzzy/working-from-the-command-line.html
+
+
 %%THIS IS THE CODE FOR A RULE BASE 2 SYSTEM
 %% Develop a FIS using command line in matlab
 %mamfis is for Mamdani while sugfis is for sugeno
