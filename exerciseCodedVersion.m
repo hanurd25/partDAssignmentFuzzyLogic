@@ -1,12 +1,17 @@
-%%Caution:
-This system 
+%% Caution:
+% This code is not fully functional for creating any of the fuzzy rule base systems described in 'Michael Negnevitsky. Artificial Intelligence: A Guide to Intelligent Systems'.
+% The code is used as an example with specifications on how a rule base 2 or 3 system can be made, with further improvements.
 
-%%Sources:
-%The foundation for the creating this code is created by the lecturer, in 'Intelligente systemer', and  
-%is from a class acticity 'Class activity_03.pdf', and can be found on blackboard page for the subject.
+%% Sources:
+% The foundation for creating this code is from the lecturer's materials in 'Intelligente systemer'. 
+% Is's from a class activity 'Class activity_03.pdf' available on blackboard page for the subject's.
 
-%Matlab turtorial for creating command-based fuzzy logic systems has also been used as guidance. Link:
-%https://se.mathworks.com/help/fuzzy/working-from-the-command-line.html
+
+% MATLAB tutorial for creating command-based fuzzy logic systems has been used as guidance:
+% https://se.mathworks.com/help/fuzzy/working-from-the-command-line.html
+
+% Matlab turtorial for creating command-based fuzzy logic systems has also been used as guidance. 
+% Link: https://se.mathworks.com/help/fuzzy/working-from-the-command-line.html
 
 %% Developing a command-based FIS in MATLAB
 %% Createing a Mamdani fuzzy inference system .
