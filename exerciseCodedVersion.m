@@ -60,13 +60,12 @@ ruleCount = 1; % To keep track of rule numbers
 for h = 1:length(humidityLabels)
     for t = 1:length(temperatureLabels)
         for d = 1:length(degreeOfUtilityLabels)
-            % Determine the output based on provided criteria
+
             if h == 1 % If humidity is poor
                 output = "veryHigh";
             elseif t == 3 % If temperature is high
                 output = "veryHigh";
             else
-                % Inversely related to the degree of utility
                 output = outputLabels(d);
             end
             
