@@ -5,6 +5,10 @@
 %Matlab turtorial for creating command-based fuzzy logic systems has also been used as guidance. Link:
 %https://se.mathworks.com/help/fuzzy/working-from-the-command-line.html
 
+% Michael Negnevitsky. Artificial Intelligence: A Guide to Intelligent Systems. 2nd ed. ,Pearson Education, 2011   - PAGE 120-120
+% The source above has been used as motive for the creating the 27, in text form 
+
+
 
 %%THIS IS THE CODE FOR A RULE BASE 2 SYSTEM
 %% Develop a FIS using command line in matlab
@@ -69,6 +73,8 @@ fis = addMF(fis,"HVAC_PLANT_OUTPUT","trimf",[0.6 0.8 1],"Name","high");
 fis = addMF(fis,"HVAC_PLANT_OUTPUT","trapmf",[0.7 0.9 1 1.4],"Name","veryHigh");
 %%
 %%plotmf(fis,"output",1);
+
+
 
 rule1 = "if humidity is veryLow and degree_Of_utility is low and temperature is low then HVAC_PLANT_OUTPUT is veryLow"
 rule2 = "if humidity is low and degree_Of_utility is low and temperature is low then HVAC_PLANT_OUTPUT is veryLow"
