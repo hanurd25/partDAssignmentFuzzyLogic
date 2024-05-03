@@ -121,11 +121,11 @@ rules = [rule1 rule2 rule3 rule4 rule5 rule6 rule7 rule8 rule9 rule10 rule11 rul
 
 
    
-%% Add the rules to the FIS.
+
 for i = 1:length(rules)
     fis = addRule(fis, rules{i}); % Adding each rule induvidually
 end
-%% Display the rules
+
 fis.Rules
 %% Plotting the membership functions
 plotmf(fis, 'input', 1);
