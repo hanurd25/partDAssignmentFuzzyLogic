@@ -7,7 +7,7 @@
 
 % Michael Negnevitsky. Artificial Intelligence: A Guide to Intelligent Systems. 2nd ed. ,Pearson Education, 2011   - PAGE 123
 % Figure 4.25: 'Cube FAM of rule base 3'
-% The source above has been used as motive for the creating the 45 rules, in text form. 
+% The motive of the 45 rules below can be found in the referenced source above.
 
 
 %%THIS IS THE CODE FOR developing rule BASE 3 HVAC SYSTEM
