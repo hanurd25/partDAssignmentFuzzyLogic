@@ -6,7 +6,7 @@
 %https://se.mathworks.com/help/fuzzy/working-from-the-command-line.html
 
 % Michael Negnevitsky. Artificial Intelligence: A Guide to Intelligent Systems. 2nd ed. ,Pearson Education, 2011   - PAGE 120-120
-% The source above has been used as motive for the creating the 27, in text form 
+% The source above has been used as motive for the creating the 27 rules under, in text form. 
 
 
 
